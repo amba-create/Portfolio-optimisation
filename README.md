@@ -49,4 +49,4 @@ portfolio-optimisation/
 
 ## Author
 
-Amba - Mathematics and Actuarial Science, University of Leicester
+Deepak - Mathematics and Actuarial Science, University of Leicester
